@@ -5,5 +5,5 @@
 
 ---
 
-[Пример моего тестового задания](https://testsaita.atlassian.net/jira/software/c/projects/TEST/issues)
+[Пример баг-репортов](https://testsaita.atlassian.net/jira/software/c/projects/TEST/issues)
 
